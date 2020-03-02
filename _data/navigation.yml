@@ -1,7 +1,11 @@
 # main links links
 main:
+  - title: "Vectorization"
+    url: /vectorization/
+    
   - title: "Publications"
     url: /publications/
+   
 
 #  - title: "Talks"
 #    url: /talks/    
