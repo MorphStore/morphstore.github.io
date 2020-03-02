@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+MorphStore is an in-memory columnar analytical query engine with a novel holistic compression-enabeld processing model. 
