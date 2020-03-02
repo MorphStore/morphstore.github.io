@@ -9,6 +9,7 @@ author_profile: true
 * Dirk Habich, Patrick Damme, Annett Ungethüm, Johannes Pietrzyk, Alexander Krause, Juliana Hildebrandt, Wolfgang Lehner: **MorphStore - In-Memory Query Processing based on Morphing Compressed Intermediates LIVE**. _SIGMOD Conference 2019_: 1917-1920
 
 ### Work in the field of compression
+* Patrick Damme, Annett Ungethüm, Juliana Hildebrandt, Dirk Habich, Wolfgang Lehner: **From a Comprehensive Experimental Survey to a Cost-based Selection Strategy for Lightweight Integer Compression Algorithms**. _ACM Trans. Database Syst. 44(3)_: 9:1-9:46 (2019)
 
 ### Work in the field of vectorization
 * Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: **Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores**. _CIDR 2020_
