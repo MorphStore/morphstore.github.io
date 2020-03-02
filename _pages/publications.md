@@ -14,5 +14,6 @@ author_profile: true
 * Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: **Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores**. _CIDR 2020_
 
 ### Work in the field of specialized vector engines
+* Johannes Pietrzyk, Dirk Habich, Patrick Damme, Erich Focht, Wolfgang Lehner: **Evaluating the Vector Supercomputer SX-Aurora TSUBASA as a Co-Processor for In-Memory Database Systems**. _Datenbank-Spektrum 19(3)_: 183-197 (2019)
 
 
