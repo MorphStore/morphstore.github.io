@@ -13,6 +13,7 @@ author_profile: true
 
 ### Work in the field of vectorization
 * Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: **Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores**. _CIDR 2020_
+* Johannes Pietrzyk, Annett Ungethüm, Dirk Habich, Wolfgang Lehner: **Fighting the Duplicates in Hashing: Conflict Detection-aware Vectorization of Linear Probing**. _BTW 2019_: 35-53
 
 ### Work in the field of specialized vector engines
 * Johannes Pietrzyk, Dirk Habich, Patrick Damme, Erich Focht, Wolfgang Lehner: **Evaluating the Vector Supercomputer SX-Aurora TSUBASA as a Co-Processor for In-Memory Database Systems**. _Datenbank-Spektrum 19(3)_: 183-197 (2019)
