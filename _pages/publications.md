@@ -13,6 +13,12 @@ author_profile: true
 * Mikhail Zarubin, Patrick Damme, Thomas Kissinger, Dirk Habich, Wolfgang Lehner, Thomas Willhalm: **Integer Compression in NVRAM-centric Data Stores: Comparative Experimental Analysis to DRAM**. _DaMoN@SIGMOD 2019_: 11:1-11:11
 * Patrick Damme, Dirk Habich, Juliana Hildebrandt, Wolfgang Lehner: **Lightweight Data Compression Algorithms: An Experimental Survey (Experiments and Analyses)**. _EDBT 2017_: 72-83
 * Juliana Hildebrandt, Dirk Habich, Thomas Kühn, Patrick Damme, Wolfgang Lehner: **Metamodeling Lightweight Data Compression Algorithms and its Application Scenarios**. _ER Forum/Demos 2017_: 128-141
+* Juliana Hildebrandt, Dirk Habich, Patrick Damme, Wolfgang Lehner: **Model Kit for Lightweight Data Compression Algorithms**. _EDBT 2016_: 692-693
+* Juliana Hildebrandt, Dirk Habich, Patrick Damme, Wolfgang Lehner: **Compression-Aware In-Memory Query Processing: Vision, System Design and Beyond**. _ADMS/IMDM@VLDB 2016_: 40-56
+* Patrick Damme, Dirk Habich, Wolfgang Lehner: **Direct Transformation Techniques for Compressed Data: General Approach and Application Scenarios**. _ADBIS 2015_: 151-165
+* Patrick Damme, Dirk Habich, Wolfgang Lehner: **A Benchmark Framework for Data Compression Techniques**. _TPCTC 2015_: 77-93
+
+
 
 
 
