@@ -16,5 +16,6 @@ author_profile: true
 
 ### Work in the field of specialized vector engines
 * Johannes Pietrzyk, Dirk Habich, Patrick Damme, Erich Focht, Wolfgang Lehner: **Evaluating the Vector Supercomputer SX-Aurora TSUBASA as a Co-Processor for In-Memory Database Systems**. _Datenbank-Spektrum 19(3)_: 183-197 (2019)
+* Johannes Pietrzyk, Dirk Habich, Patrick Damme, Wolfgang Lehner: **First Investigations of the Vector Supercomputer SX-Aurora TSUBASA as a Co-Processor for Database Systems**. _BTW (Workshops) 2019_: 33-50
 
 
