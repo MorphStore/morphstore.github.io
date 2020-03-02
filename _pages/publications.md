@@ -10,6 +10,7 @@ author_profile: true
 
 ### Work in the field of compression
 * Patrick Damme, Annett Ungethüm, Juliana Hildebrandt, Dirk Habich, Wolfgang Lehner: **From a Comprehensive Experimental Survey to a Cost-based Selection Strategy for Lightweight Integer Compression Algorithms**. _ACM Trans. Database Syst. 44(3)_: 9:1-9:46 (2019)
+* Mikhail Zarubin, Patrick Damme, Thomas Kissinger, Dirk Habich, Wolfgang Lehner, Thomas Willhalm: **Integer Compression in NVRAM-centric Data Stores: Comparative Experimental Analysis to DRAM**. _DaMoN@SIGMOD 2019_: 11:1-11:11
 
 ### Work in the field of vectorization
 * Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: **Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores**. _CIDR 2020_
