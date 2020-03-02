@@ -5,14 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Test
+#### System Demonstration
+* Dirk Habich, Patrick Damme, Annett Ungethüm, Johannes Pietrzyk, Alexander Krause, Juliana Hildebrandt, Wolfgang Lehner: **MorphStore - In-Memory Query Processing based on Morphing Compressed Intermediates LIVE**. _SIGMOD Conference 2019_: 1917-1920
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
 
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
