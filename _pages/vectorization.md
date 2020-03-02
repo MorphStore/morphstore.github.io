@@ -5,7 +5,9 @@ permalink: /vectorization/
 author_profile: true
 ---
 
-To satisfy the requirements of high query throughput and low query latency, data processing systems constantly adapt to novel 
-hardware features, but usually in a hardware-conscious way. That means, the implementations of, for example, 
-query operators is very hardware-specific and any change or development of the underlying hardware leads to significant 
-implementation and maintenance activities.
+## Motivation
+To satisfy the requirements of high query throughput and low query latency, data processing systems constantly adapt to novel  hardware features, but usually in a _hardware-conscious_ way.
+
+## Hardware-oblivious concept
+
+Generally, the implementation of query operators is very hardware-specific and any change or evolving of the underlying hardware leads to significant implementation and maintenance activities.
