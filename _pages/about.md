@@ -24,6 +24,7 @@ To exploit this potential for an efficient OLAP query processing, we designed a 
 
 ## Benefit Evaluation
 
+![alt text](https://morphstore.github.io/files/morphstore_teaser_eval.pdf "Logo Title Text 1")
 
 
 ## News
