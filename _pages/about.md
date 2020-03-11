@@ -22,6 +22,10 @@ To exploit this potential for an efficient OLAP query processing, we designed a 
 3. No physical columnar query operator should require the uncompressed materialization of its entire input or output data, since this would severely limit the benefits achievable through compression. In particular, a full decompression of the input data should be avoided.
 4. To reduce the computational overhead for compression and decompression, our processing model heavily applies vectorization. On mainstream CPUs, this vectorization is done using SIMD extensions such as Intel’s SSE (Streaming SIMD extensions) or AVX (Advanced Vector Extensions). 
 
+## Benefit Evaluation
+
+
+
 ## News
 2020-03-01 - We submitted our paper entitled "MorphStore: Analytical Query Engine with a Holistic Compression-Enabled Processing Model" to PVLDB. **Our [VLDB-2020](https://github.com/MorphStore/VLDB-2020) repository contains everything required to reproduce the experiments.**
 
