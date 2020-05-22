@@ -24,7 +24,7 @@ To exploit this potential for an efficient OLAP query processing, we designed a 
 
 ## Benefit Evaluation
 
-![alt text](https://morphstore.github.io/files/morphstore_teaser_eval.pdf "Teaser")
+![alt text](https://morphstore.github.io/files/morphstore_teaser_eval.png "Teaser")
 To prove the benefits of our novel processing model, we compared MorphStore with [MonetDB](https://www.monetdb.org) using the analytical Star-Schema-Benchmark (SSB) (scale factor 10). As shown in the figure, MorphStore provides an average runtime behavior comparable to MonetDB for all SSB queries in case of single-threaded scalar processing of uncompressed 64-bit data. With a vectorized processing of uncompressed data in MorphStore using Intel’s latest SIMD extension AVX-512, we are able to decrease the average query runtime by 19%. However, with our compression-enabled model executed with AVX-512 as well, we achieve an average query runtime reduction of about 54%, while reducing the memory footprint by 52% at the same time.
 
 
